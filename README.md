@@ -1,13 +1,3 @@
-# FirstGitRepo
+# Readme
 
-Hello world Here we are
-
-Second change!
-
-Another line
-
-so what
-
-another
-
-Remote change
+This is a simple text file under version control
