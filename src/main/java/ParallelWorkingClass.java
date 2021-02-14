@@ -10,7 +10,8 @@ public class ParallelWorkingClass {
 		
 		System.out.println("Hello, world!");
 		
-		EnRo.main( null );
+		// EnRo.main( null );
+		System.out.println("EnRo 20210214 1509");
 		
 		
 		
