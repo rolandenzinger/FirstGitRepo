@@ -8,12 +8,7 @@ public class ParallelWorkingClass {
 	
 	public static void main (String[] args) {
 		
-		System.out.println("Hello, world!");
-		
-		
-		System.out.println("EnRo 20210214 20:00");
-		
-		
+		System.out.println("Hello, world!");	
 		
 	}
 	
