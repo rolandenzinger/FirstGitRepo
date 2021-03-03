@@ -10,7 +10,6 @@ public class ParallelWorkingClass {
 		
 		System.out.println("Hello, world!");	
 		
-		// bla bla
 	}
 	
 }
