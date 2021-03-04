@@ -4,4 +4,4 @@ This is a simple text file under version control - to be used by multiple people
 
 Hello, world!
 
-JO PASST!
+JO PASST gema weita!
