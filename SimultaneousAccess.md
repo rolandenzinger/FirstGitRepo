@@ -1,19 +1,13 @@
-<<<<<<< HEAD
 1: Roland Enzinger
-<<<<<<< HEAD
 2  
 3  
 4: heissenberger:
 5  
-=======
-=======
 1: wita01
->>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
 2  Sei der Ferrari!
 3  Spast
 4  
 5  E.H.
->>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
 6  
 7  Jaschti Jascht
 8  
@@ -24,7 +18,6 @@
 13  
 14  Petar Nenkov
 15  Neumann  
-=======
 14: Petar Nenkov
 15: Neumann
 16  
