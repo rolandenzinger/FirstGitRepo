@@ -19,7 +19,7 @@
 >>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
 16  
 17    
-18  
+18: David Palli
 19  
 20  
 21  
