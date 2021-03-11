@@ -15,7 +15,7 @@
 5  E.H.
 >>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
 6  
-7  JM
+7  Jaschti Jascht
 8  
 9  
 10  Ladstätter Paul
