@@ -12,11 +12,7 @@
 12  Luca Lepai
 13  
 14: Petar Nenkov
-15    
-=======
-14  
-15: Neumann\
->>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
+15  Neumann  
 16  
 17    
 18  
