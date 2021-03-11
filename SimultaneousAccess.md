@@ -9,7 +9,7 @@
 9  
 10  
 11  
-12  
+12  Luca Lepai
 13  
 14  
 15: Neumann\
@@ -19,6 +19,6 @@
 19  
 20  
 21  
-22 
-23: Marco Stocker
-24
+22: Schupp 
+23: Marco St.
+24 Fabian W.
