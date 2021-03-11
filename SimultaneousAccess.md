@@ -24,5 +24,6 @@
 20  
 21  
 22: Schupp 
-23: Marco St.
-24 Fabian W.
+23
+24: Marco St.
+25: Fabian W.
