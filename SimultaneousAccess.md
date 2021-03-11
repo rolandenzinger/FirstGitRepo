@@ -4,21 +4,21 @@
 4  
 5  E.H.
 6  
-7  
+7  JM
 8  
 9  
 10  
 11  
-12  
+12  Luca Lepai
 13  
 14  
-15    
+15: Neumann\
 16  
 17    
 18  
 19  
 20  
 21  
-22 
+22: Schupp 
 23
-24 
+24 Fabian W.
