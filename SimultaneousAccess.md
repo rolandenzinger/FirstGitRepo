@@ -11,7 +11,6 @@
 11  
 12  Luca Lepai
 13  
-<<<<<<< HEAD
 14: Petar Nenkov
 15    
 =======
