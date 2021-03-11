@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1: Roland Enzinger
 <<<<<<< HEAD
 2  
@@ -5,6 +6,9 @@
 4: heissenberger:
 5  
 =======
+=======
+1: wita01
+>>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
 2  Sei der Ferrari!
 3  Killi!!!
 4  
