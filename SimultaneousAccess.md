@@ -9,7 +9,7 @@
 9  
 10  Ladstätter Paul
 11  
-12  Luca Lepai
+12:  Luca Lepai
 13  
 14: Petar Nenkov
 15: Neumann
