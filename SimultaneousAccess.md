@@ -6,7 +6,7 @@
 5  
 =======
 2  Sei der Ferrari!
-3  Küss
+3  Killi!!!
 4  
 5  E.H.
 >>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
@@ -27,5 +27,6 @@
 20  Prutti P.
 21  
 22: Schupp 
-23: Marco St.
-24: Fabian W.
+23
+24: Marco St.
+25: Fabian W.
