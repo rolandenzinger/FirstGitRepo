@@ -7,23 +7,18 @@
 7  JM
 8  
 9  
-10  
+10  Ladstätter Paul
 11  
-12  Luca Lepai
+12:  Luca Lepai
 13  
-<<<<<<< HEAD
 14: Petar Nenkov
-15    
-=======
-14  
-15: Neumann\
->>>>>>> branch 'main' of https://github.com/rolandenzinger/FirstGitRepo
+15: Neumann
 16  
 17    
-18  
+18: David Palli
 19  
-20  
+20  Prutti P.
 21  
 22: Schupp 
-23
-24 Fabian W.
+23: Marco St.
+24: Fabian W.
