@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 2  
 3  
-4 heissenberger
+4: heissenberger
 5  
 =======
 2  Sei der Ferrari!
