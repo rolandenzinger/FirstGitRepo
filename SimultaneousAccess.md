@@ -1,10 +1,10 @@
 1: Roland Enzinger
 2  
 3  
-4: heissenberger du spast
-5  hahahahhh
+4: heissenberger 
+5  
 1: wita01
-2  Sei der Ferrari!
+2
 3  Spast
 4  
 5  E.H.
